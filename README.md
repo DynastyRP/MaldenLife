@@ -1,5 +1,5 @@
 # Status of Repo:
-  - Private
+  - Public
 
 # Server:
   - No Name Yet
